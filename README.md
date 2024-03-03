@@ -43,9 +43,6 @@ Example:
 
 ./target/debug/wc_tool -c text.txt
 
-text.txt is the included file in the repo
-
-If no filename is provided, the default file is text.txt and all the data will be displayed. If only an option is provided, it will check the default file.
 
 
 ## Features
