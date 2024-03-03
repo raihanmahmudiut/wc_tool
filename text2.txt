@@ -1,4 +1,6 @@
 The Project Gutenberg eBook of The Art of War
+
+Introduction
     
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -33,6 +35,7 @@ The Art of War
 
 THE OLDEST MILITARY TREATISE IN THE WORLD
 Translated from the Chinese with Introduction and Critical Notes
+
 
 BY
 LIONEL GILES, M.A.
@@ -6986,6 +6989,9 @@ are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
 the Project Gutenberg™ trademark. Contact the Foundation as set
 forth in Section 3 below.
+
+
+References
 
 1.F.
 
