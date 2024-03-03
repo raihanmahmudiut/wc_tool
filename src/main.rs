@@ -54,6 +54,7 @@ fn count_stdin_lines_words_chars_bytes<R: BufRead>(reader: R) -> (usize, usize, 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
 
+
     if args.len() == 1 {
         let stdin = io::stdin();
         let reader = stdin.lock();
